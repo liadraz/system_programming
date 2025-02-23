@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"ping_pong.h": "c",
+			"signal.h": "c",
+			"string.h": "c",
+			"stdlib.h": "c",
+			"semaphore.h": "c",
+			"stdio.h": "c",
+			"pthread.h": "c",
+			"fcntl.h": "c",
+			"errno.h": "c",
+			"producer_consumer.h": "c",
+			"stdatomic.h": "c"
+		}
+	}
+}
