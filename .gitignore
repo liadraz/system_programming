@@ -1,0 +1,11 @@
+# VSCode
+.vscode/
+
+# Build files
+bin/
+obj/
+*.exe
+*.out
+
+# Log files
+*.log
